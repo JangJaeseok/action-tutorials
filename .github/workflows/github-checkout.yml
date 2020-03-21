@@ -1,7 +1,6 @@
 name: github checkout
 
-on:
-  push: [push]
+on: [push]
 
 jobs:
   build:
